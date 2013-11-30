@@ -4,6 +4,7 @@
 //      Calculates the velocity an object must have to escape the gravity of a planet or body.
 //
 // Author: Guy Matthew LaCrosse
+//         mlacrosse3@gmail.com
 //
 //  Free to use for educational purposes
 //
